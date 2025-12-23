@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
