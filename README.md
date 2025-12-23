@@ -8,7 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
-| [0455-assign-cookies](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -21,12 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
-| [0455-assign-cookies](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
-| [0455-assign-cookies](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -40,5 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0455-assign-cookies](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
