@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
 ## Binary Indexed Tree
 |  |
@@ -30,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
