@@ -13,7 +13,6 @@ class Solution {
                 return -1;
             }
         });
-        int xstart_max = points[0][0];
         int xend_min = points[0][1];
         int arrows = 1;
 
@@ -21,11 +20,9 @@ class Solution {
             int[] p = points[i];
             if(p[0] > xend_min){
                 arrows++;
-                xstart_max = p[0];
                 xend_min = p[1];
             }
             else{
-                xstart_max = Math.max(xstart_max, p[0]);
                 xend_min = Math.min(xend_min, p[1]);
             }
         }
