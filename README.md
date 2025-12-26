@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 ## Tree
 |  |
 | ------- |
