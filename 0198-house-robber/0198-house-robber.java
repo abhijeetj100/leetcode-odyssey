@@ -1,5 +1,5 @@
 class Solution {
-    public int[] dp = new int[101];
+    public int[] dp = new int[100];
     public int rob(int[] nums) {
         Arrays.fill(dp, -1);
         return solve(nums, nums.length-1);
