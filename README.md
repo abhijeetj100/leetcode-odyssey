@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
