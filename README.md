@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -125,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0063-unique-paths-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
