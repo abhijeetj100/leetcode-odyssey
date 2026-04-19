@@ -2,20 +2,21 @@ class Solution {
     int[] dp;
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
-        dp = new int[n+1];
+        dp = new int[cost.length+1];
         Arrays.fill(dp, -1);
-        
-        return findcost(n, cost);
-        
+        return minCost(cost, n);
     }
 
-    public int findcost(int i, int[] cost){
-        if(i <= 1) return 0;
+    public int minCost(int[] cost, int index){
+        if(index == 0 || index == 1) return 0;
 
-        if(dp[i] != -1) return dp[i];
+        if(dp[index] != -1) return dp[index];
 
-        dp[i] = Math.min(findcost(i-1, cost) + cost[i-1], findcost(i-2, cost) + cost[i-2]);
+        int opt1 = minCost(cost, index-1) + cost[index-1];
+        int opt2 = minCost(cost, index-2) + cost[index-2];
 
-        return dp[i];
+        dp[index] = Math.min(opt1, opt2);
+
+        return dp[index];
     }
 }
