@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Two Pointers
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0763-partition-labels) |
 ## Tree
 |  |
@@ -87,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -133,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0721-accounts-merge) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
