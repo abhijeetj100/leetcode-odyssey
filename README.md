@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0300-longest-increasing-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0621-task-scheduler) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0746-min-cost-climbing-stairs) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
