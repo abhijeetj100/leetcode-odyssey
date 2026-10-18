@@ -5,10 +5,12 @@ class Solution {
         if(i == 0 && j == 0) return 1;
         if(dp[i][j] != -1) return dp[i][j];
         if(i == 0){
-            return find(dp, grid, 0, j-1);
+            dp[i][j] = find(dp, grid, 0, j-1);
+            return dp[i][j];
         }
         if(j == 0){
-            return find(dp, grid, i-1, 0);
+            dp[i][j] = find(dp, grid, i-1, 0);
+            return dp[i][j];
         }
         
 
