@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -109,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0509-fibonacci-number) |
 ## Memoization
