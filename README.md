@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1029-two-city-scheduling) |
+| [1049-last-stone-weight-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1049-last-stone-weight-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Indexed Tree
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1049-last-stone-weight-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -189,8 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/abhijeetj100/leetcode-odyssey/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
